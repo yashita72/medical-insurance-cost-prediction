@@ -61,7 +61,4 @@ Smoking status emerged as the most influential factor affecting medical insuranc
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone the repository  
-   ```bash
-   git clone <your-repo-link>
+
